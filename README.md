@@ -5,7 +5,7 @@ This project presents an interactive Power BI Dashboard built to track, analyze,
 
 ![image alt] (https://github.com/tanishaha2725/FINANCIAL-EXPENSE-Dashboard/blob/e129c2b59ce920e615a64f4c6815820b8e584b0c/Screenshot%202026-10-03%20170841.png)
 
-![image alt] ()
+![image alt] (https://github.com/tanishaha2725/FINANCIAL-EXPENSE-Dashboard/blob/cef2240816233c4e03b490874b95f1dbc206f317/Screenshot%202026-10-03%20170859.png)
 
 ![image alt] ()
 
