@@ -7,7 +7,7 @@ This project presents an interactive Power BI Dashboard built to track, analyze,
 
 ![image alt] (https://github.com/tanishaha2725/FINANCIAL-EXPENSE-Dashboard/blob/cef2240816233c4e03b490874b95f1dbc206f317/Screenshot%202026-10-03%20170859.png)
 
-![image alt] ()
+![image alt] (https://github.com/tanishaha2725/FINANCIAL-EXPENSE-Dashboard/blob/3c863b2923e7ac0a6663d0116051c7273e80b18c/Screenshot%202026-10-03%20170916.png)
 
 🛠️ Tools & Technologies Used: 
 1. Microsoft Excel: Raw data cleaning, preprocessing, and missing value handling. 
